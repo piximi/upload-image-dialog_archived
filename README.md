@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # @piximi/upload-image-dialog
 
 Piximi’s `UploadImageDialog` component
